@@ -1,4 +1,2 @@
 //Segundo archivo
-public class programa2{
-
-}
+// Comentari dins la rama Multiplicacio
